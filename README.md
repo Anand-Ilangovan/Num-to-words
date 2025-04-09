@@ -44,6 +44,6 @@ Twelve Thousand Three Hundred Forty Five
 
 ## 🧑‍💻 Author
 
-Anand-Ilangovan – @yourgithub
+Anand-Ilangovan 
 
 Inspired by the num2words Python library — but written from scratch for learning and customization.
